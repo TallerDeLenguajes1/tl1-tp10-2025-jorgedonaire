@@ -1,0 +1,15 @@
+C:\Users\jorge\Documents\FACET\TL12025\tp10\tl1-tp10-2025-jorgedonaire\Usuarios\bin\Debug\net8.0\Usuarios.exe
+C:\Users\jorge\Documents\FACET\TL12025\tp10\tl1-tp10-2025-jorgedonaire\Usuarios\bin\Debug\net8.0\Usuarios.deps.json
+C:\Users\jorge\Documents\FACET\TL12025\tp10\tl1-tp10-2025-jorgedonaire\Usuarios\bin\Debug\net8.0\Usuarios.runtimeconfig.json
+C:\Users\jorge\Documents\FACET\TL12025\tp10\tl1-tp10-2025-jorgedonaire\Usuarios\bin\Debug\net8.0\Usuarios.dll
+C:\Users\jorge\Documents\FACET\TL12025\tp10\tl1-tp10-2025-jorgedonaire\Usuarios\bin\Debug\net8.0\Usuarios.pdb
+C:\Users\jorge\Documents\FACET\TL12025\tp10\tl1-tp10-2025-jorgedonaire\Usuarios\obj\Debug\net8.0\Usuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\Documents\FACET\TL12025\tp10\tl1-tp10-2025-jorgedonaire\Usuarios\obj\Debug\net8.0\Usuarios.AssemblyInfoInputs.cache
+C:\Users\jorge\Documents\FACET\TL12025\tp10\tl1-tp10-2025-jorgedonaire\Usuarios\obj\Debug\net8.0\Usuarios.AssemblyInfo.cs
+C:\Users\jorge\Documents\FACET\TL12025\tp10\tl1-tp10-2025-jorgedonaire\Usuarios\obj\Debug\net8.0\Usuarios.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\FACET\TL12025\tp10\tl1-tp10-2025-jorgedonaire\Usuarios\obj\Debug\net8.0\Usuarios.sourcelink.json
+C:\Users\jorge\Documents\FACET\TL12025\tp10\tl1-tp10-2025-jorgedonaire\Usuarios\obj\Debug\net8.0\Usuarios.dll
+C:\Users\jorge\Documents\FACET\TL12025\tp10\tl1-tp10-2025-jorgedonaire\Usuarios\obj\Debug\net8.0\refint\Usuarios.dll
+C:\Users\jorge\Documents\FACET\TL12025\tp10\tl1-tp10-2025-jorgedonaire\Usuarios\obj\Debug\net8.0\Usuarios.pdb
+C:\Users\jorge\Documents\FACET\TL12025\tp10\tl1-tp10-2025-jorgedonaire\Usuarios\obj\Debug\net8.0\Usuarios.genruntimeconfig.cache
+C:\Users\jorge\Documents\FACET\TL12025\tp10\tl1-tp10-2025-jorgedonaire\Usuarios\obj\Debug\net8.0\ref\Usuarios.dll

@@ -1,0 +1,15 @@
+C:\Users\jorge\Documents\FACET\TL12025\tp10\tl1-tp10-2025-jorgedonaire\MiWebApi\bin\Debug\net8.0\MiWebApi.exe
+C:\Users\jorge\Documents\FACET\TL12025\tp10\tl1-tp10-2025-jorgedonaire\MiWebApi\bin\Debug\net8.0\MiWebApi.deps.json
+C:\Users\jorge\Documents\FACET\TL12025\tp10\tl1-tp10-2025-jorgedonaire\MiWebApi\bin\Debug\net8.0\MiWebApi.runtimeconfig.json
+C:\Users\jorge\Documents\FACET\TL12025\tp10\tl1-tp10-2025-jorgedonaire\MiWebApi\bin\Debug\net8.0\MiWebApi.dll
+C:\Users\jorge\Documents\FACET\TL12025\tp10\tl1-tp10-2025-jorgedonaire\MiWebApi\bin\Debug\net8.0\MiWebApi.pdb
+C:\Users\jorge\Documents\FACET\TL12025\tp10\tl1-tp10-2025-jorgedonaire\MiWebApi\obj\Debug\net8.0\MiWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\Documents\FACET\TL12025\tp10\tl1-tp10-2025-jorgedonaire\MiWebApi\obj\Debug\net8.0\MiWebApi.AssemblyInfoInputs.cache
+C:\Users\jorge\Documents\FACET\TL12025\tp10\tl1-tp10-2025-jorgedonaire\MiWebApi\obj\Debug\net8.0\MiWebApi.AssemblyInfo.cs
+C:\Users\jorge\Documents\FACET\TL12025\tp10\tl1-tp10-2025-jorgedonaire\MiWebApi\obj\Debug\net8.0\MiWebApi.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\FACET\TL12025\tp10\tl1-tp10-2025-jorgedonaire\MiWebApi\obj\Debug\net8.0\MiWebApi.sourcelink.json
+C:\Users\jorge\Documents\FACET\TL12025\tp10\tl1-tp10-2025-jorgedonaire\MiWebApi\obj\Debug\net8.0\MiWebApi.dll
+C:\Users\jorge\Documents\FACET\TL12025\tp10\tl1-tp10-2025-jorgedonaire\MiWebApi\obj\Debug\net8.0\refint\MiWebApi.dll
+C:\Users\jorge\Documents\FACET\TL12025\tp10\tl1-tp10-2025-jorgedonaire\MiWebApi\obj\Debug\net8.0\MiWebApi.pdb
+C:\Users\jorge\Documents\FACET\TL12025\tp10\tl1-tp10-2025-jorgedonaire\MiWebApi\obj\Debug\net8.0\MiWebApi.genruntimeconfig.cache
+C:\Users\jorge\Documents\FACET\TL12025\tp10\tl1-tp10-2025-jorgedonaire\MiWebApi\obj\Debug\net8.0\ref\MiWebApi.dll

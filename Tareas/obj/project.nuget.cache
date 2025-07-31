@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Oab3irVeN+XYGe4Gp1aUSHWHwI1CMB11TVgcStgqczyc5vzEwwOGEHa0RqMQTMuw0Crm6bg/K7yEu6HuoClyWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jorge\\Documents\\FACET\\TL12025\\tp10\\tl1-tp10-2025-jorgedonaire\\Tareas\\Tareas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jorge\\.nuget\\packages\\system.io.pipelines\\9.0.6\\system.io.pipelines.9.0.6.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\system.text.encodings.web\\9.0.6\\system.text.encodings.web.9.0.6.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\system.text.json\\9.0.6\\system.text.json.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
